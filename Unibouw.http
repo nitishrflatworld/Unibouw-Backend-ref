@@ -1,0 +1,6 @@
+@Unibouw_HostAddress = http://localhost:5214
+
+GET {{Unibouw_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
